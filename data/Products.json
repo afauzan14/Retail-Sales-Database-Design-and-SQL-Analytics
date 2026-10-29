@@ -1,0 +1,302 @@
+[
+    {
+        "product_id": 1,
+        "product_name": "Drug",
+        "price": 616.39,
+        "category": "Clothing"
+    },
+    {
+        "product_id": 2,
+        "product_name": "Office",
+        "price": 952.52,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": 3,
+        "product_name": "Happen",
+        "price": 376.01,
+        "category": "Books"
+    },
+    {
+        "product_id": 4,
+        "product_name": "Expert",
+        "price": 195.57,
+        "category": "Electronics"
+    },
+    {
+        "product_id": 5,
+        "product_name": "Himself",
+        "price": 882.01,
+        "category": "Books"
+    },
+    {
+        "product_id": 6,
+        "product_name": "Reach",
+        "price": 261.5,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": 7,
+        "product_name": "Begin",
+        "price": 49.15,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": 8,
+        "product_name": "Station",
+        "price": 492.47,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": 9,
+        "product_name": "Somebody",
+        "price": 672.94,
+        "category": "Clothing"
+    },
+    {
+        "product_id": 10,
+        "product_name": "Glass",
+        "price": 191.65,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": 11,
+        "product_name": "Effect",
+        "price": 745.88,
+        "category": "Books"
+    },
+    {
+        "product_id": 12,
+        "product_name": "Responsibility",
+        "price": 822.75,
+        "category": "Books"
+    },
+    {
+        "product_id": 13,
+        "product_name": "Maybe",
+        "price": 686.37,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": 14,
+        "product_name": "Especially",
+        "price": 973.42,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": 15,
+        "product_name": "Similar",
+        "price": 302.57,
+        "category": "Toys"
+    },
+    {
+        "product_id": 16,
+        "product_name": "Street",
+        "price": 404.79,
+        "category": "Books"
+    },
+    {
+        "product_id": 17,
+        "product_name": "See",
+        "price": 636.22,
+        "category": "Books"
+    },
+    {
+        "product_id": 18,
+        "product_name": "Despite",
+        "price": 491.46,
+        "category": "Books"
+    },
+    {
+        "product_id": 19,
+        "product_name": "Final",
+        "price": 913.65,
+        "category": "Electronics"
+    },
+    {
+        "product_id": 20,
+        "product_name": "Professional",
+        "price": 326.33,
+        "category": "Clothing"
+    },
+    {
+        "product_id": 21,
+        "product_name": "Listen",
+        "price": 323.03,
+        "category": "Electronics"
+    },
+    {
+        "product_id": 22,
+        "product_name": "Design",
+        "price": 194.38,
+        "category": "Clothing"
+    },
+    {
+        "product_id": 23,
+        "product_name": "Head",
+        "price": 184.54,
+        "category": "Electronics"
+    },
+    {
+        "product_id": 24,
+        "product_name": "Ten",
+        "price": 169.15,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": 25,
+        "product_name": "Truth",
+        "price": 693.95,
+        "category": "Toys"
+    },
+    {
+        "product_id": 26,
+        "product_name": "Body",
+        "price": 35.55,
+        "category": "Toys"
+    },
+    {
+        "product_id": 27,
+        "product_name": "Response",
+        "price": 471.29,
+        "category": "Clothing"
+    },
+    {
+        "product_id": 28,
+        "product_name": "Close",
+        "price": 970.65,
+        "category": "Clothing"
+    },
+    {
+        "product_id": 29,
+        "product_name": "Through",
+        "price": 454.21,
+        "category": "Clothing"
+    },
+    {
+        "product_id": 30,
+        "product_name": "Begin",
+        "price": 657.11,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": 31,
+        "product_name": "When",
+        "price": 691.0,
+        "category": "Electronics"
+    },
+    {
+        "product_id": 32,
+        "product_name": "Finally",
+        "price": 636.08,
+        "category": "Toys"
+    },
+    {
+        "product_id": 33,
+        "product_name": "If",
+        "price": 443.76,
+        "category": "Electronics"
+    },
+    {
+        "product_id": 34,
+        "product_name": "Those",
+        "price": 411.45,
+        "category": "Clothing"
+    },
+    {
+        "product_id": 35,
+        "product_name": "Affect",
+        "price": 23.94,
+        "category": "Toys"
+    },
+    {
+        "product_id": 36,
+        "product_name": "Nation",
+        "price": 434.53,
+        "category": "Clothing"
+    },
+    {
+        "product_id": 37,
+        "product_name": "Financial",
+        "price": 403.64,
+        "category": "Books"
+    },
+    {
+        "product_id": 38,
+        "product_name": "Anyone",
+        "price": 40.79,
+        "category": "Books"
+    },
+    {
+        "product_id": 39,
+        "product_name": "Different",
+        "price": 933.05,
+        "category": "Toys"
+    },
+    {
+        "product_id": 40,
+        "product_name": "Where",
+        "price": 14.81,
+        "category": "Clothing"
+    },
+    {
+        "product_id": 41,
+        "product_name": "Out",
+        "price": 992.02,
+        "category": "Electronics"
+    },
+    {
+        "product_id": 42,
+        "product_name": "Thought",
+        "price": 968.21,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": 43,
+        "product_name": "Debate",
+        "price": 51.39,
+        "category": "Electronics"
+    },
+    {
+        "product_id": 44,
+        "product_name": "Art",
+        "price": 69.89,
+        "category": "Clothing"
+    },
+    {
+        "product_id": 45,
+        "product_name": "Many",
+        "price": 317.99,
+        "category": "Books"
+    },
+    {
+        "product_id": 46,
+        "product_name": "Tough",
+        "price": 794.27,
+        "category": "Books"
+    },
+    {
+        "product_id": 47,
+        "product_name": "Great",
+        "price": 917.35,
+        "category": "Toys"
+    },
+    {
+        "product_id": 48,
+        "product_name": "Peace",
+        "price": 775.46,
+        "category": "Home Appliances"
+    },
+    {
+        "product_id": 49,
+        "product_name": "Coach",
+        "price": 922.83,
+        "category": "Electronics"
+    },
+    {
+        "product_id": 50,
+        "product_name": "Field",
+        "price": 363.51,
+        "category": "Electronics"
+    }
+]

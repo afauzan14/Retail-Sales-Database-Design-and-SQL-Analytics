@@ -1,0 +1,62 @@
+[
+    {
+        "supplier_id": 1,
+        "supplier_name": "Burton-Carson",
+        "contact_name": "Logan Thompson",
+        "phone": "+1-778-542-9042x06358"
+    },
+    {
+        "supplier_id": 2,
+        "supplier_name": "Huynh Inc",
+        "contact_name": "Yolanda Vargas",
+        "phone": "(451)928-9602x3535"
+    },
+    {
+        "supplier_id": 3,
+        "supplier_name": "Brown, Daniel and Johnson",
+        "contact_name": "Sherry Allen DDS",
+        "phone": "205.288.0263x17541"
+    },
+    {
+        "supplier_id": 4,
+        "supplier_name": "Barnes, King and Goodman",
+        "contact_name": "Dennis Warren",
+        "phone": "001-642-403-7536x4754"
+    },
+    {
+        "supplier_id": 5,
+        "supplier_name": "Owens-Singh",
+        "contact_name": "Mr. John Roberts",
+        "phone": "+1-108-096-2824x95538"
+    },
+    {
+        "supplier_id": 6,
+        "supplier_name": "Baker, White and Smith",
+        "contact_name": "David Rios",
+        "phone": "(340)835-6382x5200"
+    },
+    {
+        "supplier_id": 7,
+        "supplier_name": "Fox PLC",
+        "contact_name": "Sharon Carpenter",
+        "phone": "+1-568-756-6832x1040"
+    },
+    {
+        "supplier_id": 8,
+        "supplier_name": "Bailey, Floyd and Bradley",
+        "contact_name": "Leslie Garcia",
+        "phone": "(430)226-3478x569"
+    },
+    {
+        "supplier_id": 9,
+        "supplier_name": "Martin, Estrada and Riley",
+        "contact_name": "Jamie Morse",
+        "phone": "+1-574-890-4730"
+    },
+    {
+        "supplier_id": 10,
+        "supplier_name": "Larsen, Howard and Norton",
+        "contact_name": "Christina Cervantes",
+        "phone": "001-674-710-2481x91729"
+    }
+]

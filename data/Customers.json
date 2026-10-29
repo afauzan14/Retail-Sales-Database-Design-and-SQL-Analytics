@@ -1,0 +1,352 @@
+[
+    {
+        "customer_id": 1,
+        "customer_name": "Scott Hernandez",
+        "email": "jamesobrien@gmail.com",
+        "phone": "+1-672-201-2483x54467",
+        "address": "309 Krueger Manor\nHallbury, LA 67620"
+    },
+    {
+        "customer_id": 2,
+        "customer_name": "Sharon Brown",
+        "email": "martinezvalerie@johnson.com",
+        "phone": "847-021-8086x315",
+        "address": "83585 Cruz Port\nLake Billyside, TN 15124"
+    },
+    {
+        "customer_id": 3,
+        "customer_name": "Heather Mason",
+        "email": "kmurphy@sanders.com",
+        "phone": "(865)484-6985x72330",
+        "address": "97493 Amy Well\nEvansshire, AK 23472"
+    },
+    {
+        "customer_id": 4,
+        "customer_name": "John Lopez",
+        "email": "gmurray@hotmail.com",
+        "phone": "001-899-130-6162",
+        "address": "50959 Samuel Cliff\nWest Sarah, LA 51472"
+    },
+    {
+        "customer_id": 5,
+        "customer_name": "Ashley Gallagher",
+        "email": "tannerwallace@yahoo.com",
+        "phone": "086.643.4633x931",
+        "address": "7681 Kane Curve\nHoganburgh, MS 70288"
+    },
+    {
+        "customer_id": 6,
+        "customer_name": "Diane Scott",
+        "email": "rebeccapalmer@garcia.com",
+        "phone": "412.708.3591x252",
+        "address": "7932 Harris Stravenue Apt. 405\nWest Amyville, HI 34417"
+    },
+    {
+        "customer_id": 7,
+        "customer_name": "Holly Osborne",
+        "email": "osmith@gmail.com",
+        "phone": "(410)098-0922",
+        "address": "1469 Tara Island Apt. 954\nKaraton, MS 00923"
+    },
+    {
+        "customer_id": 8,
+        "customer_name": "Michael Castillo",
+        "email": "jaredperez@barron.org",
+        "phone": "469-388-8806",
+        "address": "257 Barron Glen Apt. 135\nSeanmouth, MS 82820"
+    },
+    {
+        "customer_id": 9,
+        "customer_name": "Paula Shaw",
+        "email": "michael07@johnson.biz",
+        "phone": "300.342.3742x2555",
+        "address": "14538 Jennifer Islands Apt. 615\nPort Josephtown, DE 78915"
+    },
+    {
+        "customer_id": 10,
+        "customer_name": "Robert Cook",
+        "email": "rebeccarodriguez@yahoo.com",
+        "phone": "(886)524-7028x209",
+        "address": "PSC 9489, Box 7762\nAPO AA 12269"
+    },
+    {
+        "customer_id": 11,
+        "customer_name": "Pamela Burke",
+        "email": "qnelson@ortiz.biz",
+        "phone": "001-824-104-1502x53198",
+        "address": "911 Thomas Fords Apt. 268\nEast Evelynberg, OR 82938"
+    },
+    {
+        "customer_id": 12,
+        "customer_name": "Adam Thompson",
+        "email": "christyhenry@chen.net",
+        "phone": "(552)093-1810x1425",
+        "address": "37560 Jennifer Crossing Apt. 487\nSouth Anthonytown, SC 69944"
+    },
+    {
+        "customer_id": 13,
+        "customer_name": "Harry Griffin",
+        "email": "tina51@hotmail.com",
+        "phone": "001-912-696-0687x1839",
+        "address": "160 Frazier Row Suite 521\nLopezland, DE 66611"
+    },
+    {
+        "customer_id": 14,
+        "customer_name": "Andrea Jackson",
+        "email": "rshields@weaver.com",
+        "phone": "(795)916-8841",
+        "address": "3081 Brian Mountain Apt. 955\nLake Malik, OR 81554"
+    },
+    {
+        "customer_id": 15,
+        "customer_name": "Alison Bradshaw",
+        "email": "ucook@faulkner-powers.com",
+        "phone": "(432)023-8318x83776",
+        "address": "4304 Michael Branch Suite 219\nLake Jeffrey, UT 25479"
+    },
+    {
+        "customer_id": 16,
+        "customer_name": "Sharon Ho",
+        "email": "rpotter@robinson.org",
+        "phone": "751-541-7265x025",
+        "address": "78790 Julia Ports Apt. 505\nNew Tracy, WY 65045"
+    },
+    {
+        "customer_id": 17,
+        "customer_name": "Ralph Rodriguez",
+        "email": "jenkinsmichael@kaiser.com",
+        "phone": "+1-710-610-5729x97984",
+        "address": "10686 Smith Park Apt. 049\nNew Jamie, HI 76577"
+    },
+    {
+        "customer_id": 18,
+        "customer_name": "Michelle Garcia",
+        "email": "pjohnson@rodriguez-brown.org",
+        "phone": "197.044.4246x81717",
+        "address": "05496 Lisa Rest Suite 275\nNorth Kimton, OR 77313"
+    },
+    {
+        "customer_id": 19,
+        "customer_name": "Ashley Chen",
+        "email": "rebecca35@hotmail.com",
+        "phone": "434.560.8482",
+        "address": "7564 Moreno Plain\nSouth Joshuaside, NH 54434"
+    },
+    {
+        "customer_id": 20,
+        "customer_name": "Charlotte Nichols",
+        "email": "qmartinez@perry.com",
+        "phone": "+1-616-734-6690x534",
+        "address": "461 Patricia Vista\nRittershire, CO 00850"
+    },
+    {
+        "customer_id": 21,
+        "customer_name": "Melvin Pierce",
+        "email": "ashlee54@todd.com",
+        "phone": "092-289-8150x74867",
+        "address": "368 Lee Port\nLake Thomas, RI 55816"
+    },
+    {
+        "customer_id": 22,
+        "customer_name": "Henry Johnson",
+        "email": "rgibson@gmail.com",
+        "phone": "181.957.7966",
+        "address": "0275 Hayes Roads\nNorth Stephanieport, ND 81511"
+    },
+    {
+        "customer_id": 23,
+        "customer_name": "Jordan King",
+        "email": "dmiller@rowland-harris.com",
+        "phone": "+1-083-329-0064",
+        "address": "148 Tina Parkways\nEast Deborahhaven, TN 19496"
+    },
+    {
+        "customer_id": 24,
+        "customer_name": "Matthew Willis",
+        "email": "tonysmith@hotmail.com",
+        "phone": "(943)748-3803x49196",
+        "address": "331 Neal Dam\nPort Leslie, WV 42284"
+    },
+    {
+        "customer_id": 25,
+        "customer_name": "Judith Harris",
+        "email": "baguilar@yahoo.com",
+        "phone": "(281)094-1228x87049",
+        "address": "1021 Drew Ridges\nPort Eric, AL 02934"
+    },
+    {
+        "customer_id": 26,
+        "customer_name": "Mark Torres",
+        "email": "whitegina@gonzales.com",
+        "phone": "331-537-1080x5536",
+        "address": "055 Roberto Oval\nEast James, FL 57751"
+    },
+    {
+        "customer_id": 27,
+        "customer_name": "Joshua Hall",
+        "email": "dhall@rodriguez.biz",
+        "phone": "453.293.6735",
+        "address": "257 Hill Trafficway Suite 871\nSouth Stephanieborough, KS 90413"
+    },
+    {
+        "customer_id": 28,
+        "customer_name": "Amanda Zimmerman",
+        "email": "martinezstephanie@gmail.com",
+        "phone": "(282)464-0017",
+        "address": "271 Debbie Estate Apt. 988\nJustinmouth, SC 35715"
+    },
+    {
+        "customer_id": 29,
+        "customer_name": "Lisa Nelson",
+        "email": "rcortez@hotmail.com",
+        "phone": "+1-424-009-7909x4183",
+        "address": "006 Chang Ville Suite 789\nScottmouth, RI 20937"
+    },
+    {
+        "customer_id": 30,
+        "customer_name": "Fernando Diaz",
+        "email": "jennygarcia@ingram.com",
+        "phone": "(771)651-3306",
+        "address": "940 Brooke Highway Apt. 749\nBoothhaven, TX 18181"
+    },
+    {
+        "customer_id": 31,
+        "customer_name": "Kelli Daniels",
+        "email": "ghunter@davis.com",
+        "phone": "(233)959-7420x1843",
+        "address": "623 Arias Lights\nSandraview, FL 63172"
+    },
+    {
+        "customer_id": 32,
+        "customer_name": "Robert Krueger",
+        "email": "bensonleslie@perry.com",
+        "phone": "420-258-9149",
+        "address": "569 Matthew Locks\nFishershire, LA 34110"
+    },
+    {
+        "customer_id": 33,
+        "customer_name": "Olivia Rivas",
+        "email": "perezallison@yahoo.com",
+        "phone": "(090)006-9549x75626",
+        "address": "USCGC Lozano\nFPO AA 43856"
+    },
+    {
+        "customer_id": 34,
+        "customer_name": "Becky Hamilton",
+        "email": "annerowe@gmail.com",
+        "phone": "755-296-1545x624",
+        "address": "46589 Shawn Isle Apt. 348\nDavisberg, IL 79482"
+    },
+    {
+        "customer_id": 35,
+        "customer_name": "Lori Berry",
+        "email": "cyork@davis.com",
+        "phone": "695.102.2978x6654",
+        "address": "966 Ray Island\nNorth Elizabeth, KS 14794"
+    },
+    {
+        "customer_id": 36,
+        "customer_name": "James Graves",
+        "email": "vreid@yahoo.com",
+        "phone": "(620)992-4688x514",
+        "address": "926 Levi Fall\nCatherinechester, IL 44924"
+    },
+    {
+        "customer_id": 37,
+        "customer_name": "Victor Allen",
+        "email": "petersonstacy@gmail.com",
+        "phone": "760.814.5871",
+        "address": "401 James Ridge Suite 015\nWilliamsview, WV 38195"
+    },
+    {
+        "customer_id": 38,
+        "customer_name": "Victoria Weeks",
+        "email": "cclark@gmail.com",
+        "phone": "001-732-416-0054x39092",
+        "address": "Unit 8111 Box 7742\nDPO AE 31280"
+    },
+    {
+        "customer_id": 39,
+        "customer_name": "Daniel Miller",
+        "email": "kdean@williams-holt.com",
+        "phone": "197.376.5483",
+        "address": "8289 Bernard Center\nDouglasland, CO 55841"
+    },
+    {
+        "customer_id": 40,
+        "customer_name": "Joshua Nicholson",
+        "email": "melvin00@yahoo.com",
+        "phone": "635.124.2345",
+        "address": "351 Johnson Lane\nWest Joshua, WA 60948"
+    },
+    {
+        "customer_id": 41,
+        "customer_name": "Mrs. Sabrina Hill MD",
+        "email": "rogersdavid@yahoo.com",
+        "phone": "559.233.7889",
+        "address": "81537 Leblanc Summit\nBautistaside, SC 24053"
+    },
+    {
+        "customer_id": 42,
+        "customer_name": "Kellie Ellison",
+        "email": "christina31@yahoo.com",
+        "phone": "129.085.9467x408",
+        "address": "385 Kimberly Shoals Apt. 517\nSouth Suzanneland, TN 60088"
+    },
+    {
+        "customer_id": 43,
+        "customer_name": "Gregory Estrada",
+        "email": "daniel42@lewis.biz",
+        "phone": "176-625-0406x82724",
+        "address": "2086 Veronica Lights Apt. 613\nLeechester, ME 42992"
+    },
+    {
+        "customer_id": 44,
+        "customer_name": "Scott Moore",
+        "email": "kanejonathan@ferguson.com",
+        "phone": "790.620.9668x40799",
+        "address": "70469 Adams Inlet Suite 730\nBlacktown, VA 95904"
+    },
+    {
+        "customer_id": 45,
+        "customer_name": "Lacey James",
+        "email": "ramirezlisa@hotmail.com",
+        "phone": "231.372.1575x88429",
+        "address": "38575 Erik Forest\nAustinmouth, NM 53570"
+    },
+    {
+        "customer_id": 46,
+        "customer_name": "Dennis Brown",
+        "email": "craig84@gmail.com",
+        "phone": "224.704.2673x30333",
+        "address": "USCGC Frey\nFPO AP 97729"
+    },
+    {
+        "customer_id": 47,
+        "customer_name": "Lacey Gardner",
+        "email": "matthew23@lopez.biz",
+        "phone": "001-848-720-2078x8315",
+        "address": "02536 Bryan Flat Suite 704\nLake Amanda, IL 11945"
+    },
+    {
+        "customer_id": 48,
+        "customer_name": "James Brandt",
+        "email": "hessjohn@collins.com",
+        "phone": "(607)599-0200",
+        "address": "99340 Dyer Ranch Suite 821\nAlvarezburgh, IN 37337"
+    },
+    {
+        "customer_id": 49,
+        "customer_name": "Calvin Young",
+        "email": "brownsteven@gmail.com",
+        "phone": "001-953-699-8972x1392",
+        "address": "60947 Hernandez Oval Apt. 493\nSnyderstad, MT 79845"
+    },
+    {
+        "customer_id": 50,
+        "customer_name": "Christine Long",
+        "email": "shannonwilliam@gmail.com",
+        "phone": "409.208.9498",
+        "address": "17675 Melanie Hill\nPort Tiffany, NM 23527"
+    }
+]
